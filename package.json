@@ -1,0 +1,23 @@
+{
+  "name": "demorepo",
+  "version": "1.0.0",
+  "description": "Demo Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExceptionXD/DemoRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ExceptionXD/DemoRepo/issues"
+  },
+  "homepage": "https://github.com/ExceptionXD/DemoRepo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^16.6.1"
+  }
+}
